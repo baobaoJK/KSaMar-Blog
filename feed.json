@@ -79,8 +79,8 @@
                 "前端",
                 "HTML5",
                 "CSS3",
-                "JavaScript",
-                "前端"
+                "前端",
+                "JavaScript"
             ]
         },
         {
@@ -93,8 +93,8 @@
                 "前端",
                 "HTML5",
                 "CSS3",
-                "JavaScript",
                 "前端",
+                "JavaScript",
                 "Sass"
             ]
         },
@@ -106,11 +106,11 @@
             "content_html": "<h1 id=\"简介\"><a class=\"anchor\" href=\"#简介\">#</a> 简介</h1>\n<p>全屏滚动 可自行设置背景图片，推荐大小为 1920x1080</p>\n<h1 id=\"开发环境\"><a class=\"anchor\" href=\"#开发环境\">#</a> 开发环境</h1>\n<p>网页制作工具：VSCode</p>\n<h1 id=\"项目图片\"><a class=\"anchor\" href=\"#项目图片\">#</a> 项目图片</h1>\n<h2 id=\"个人主页\"><a class=\"anchor\" href=\"#个人主页\">#</a> 个人主页</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302346567f4a1386513a36196.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"技能介绍\"><a class=\"anchor\" href=\"#技能介绍\">#</a> 技能介绍</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/20240730234616805cf7f235dfe7ed9.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"时间线\"><a class=\"anchor\" href=\"#时间线\">#</a> 时间线</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302346557e7b91046490731bb.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"兴趣爱好\"><a class=\"anchor\" href=\"#兴趣爱好\">#</a> 兴趣爱好</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/20240730234675476537dc836f7be42.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"联系方式\"><a class=\"anchor\" href=\"#联系方式\">#</a> 联系方式</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302346472b505d17c0c66852f.png\" alt=\"在这里插入图片描述\" /></p>\n<h1 id=\"项目地址\"><a class=\"anchor\" href=\"#项目地址\">#</a> 项目地址</h1>\n<p>GitHub: <a href=\"https://github.com/baobaoJK/ACGN-Personal-Profile\">GitHub</a></p>\n<p>Gitee: <a href=\"https://gitee.com/baobao_JK/ACGN-Personal-Profile\">Gitee</a></p>\n<h1 id=\"视频演示\"><a class=\"anchor\" href=\"#视频演示\">#</a> 视频演示</h1>\n<p>Bilibili -&gt; <a href=\"https://www.bilibili.com/video/BV1MN411r7iP\">Bilibili</a></p>\n",
             "tags": [
                 "前端",
+                "JQuery",
                 "HTML5",
                 "CSS3",
-                "JavaScript",
                 "前端",
-                "JQuery"
+                "JavaScript"
             ]
         },
         {
@@ -123,8 +123,8 @@
                 "前端",
                 "HTML5",
                 "CSS3",
-                "JavaScript",
-                "前端"
+                "前端",
+                "JavaScript"
             ]
         },
         {
@@ -137,8 +137,8 @@
                 "前端",
                 "HTML5",
                 "CSS3",
-                "JavaScript",
-                "前端"
+                "前端",
+                "JavaScript"
             ]
         },
         {
@@ -197,10 +197,10 @@
             "content_html": "<h1 id=\"️零-简介\"><a class=\"anchor\" href=\"#️零-简介\">#</a> ✒️零、简介</h1>\n<p>大家好，我是一名喜欢制作网页的小程序员 KSaMar</p>\n<p>前几天看到了一张网页倒计时的图片项目，让我非常感兴趣，今天我仿照图片制作出此次展示的网页倒计时项目</p>\n<h1 id=\"️一-项目展示图\"><a class=\"anchor\" href=\"#️一-项目展示图\">#</a> ✒️一、项目展示图</h1>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302058885b8161a5f59fddafc.png\" alt=\"在这里插入图片描述\" /></p>\n<h1 id=\"️二-修改时间背景\"><a class=\"anchor\" href=\"#️二-修改时间背景\">#</a> ✒️二、修改时间 / 背景</h1>\n<p>修改图片背景<br />\n<img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302058957cbd8cc82543eb4c1.png\" alt=\"在这里插入图片描述\" /><br />\n更改 background.jpg 文件即可</p>\n<p>修改渐变背景<br />\n<img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302058949ba1cf3897ebba034.png\" alt=\"在这里插入图片描述\" /><br />\n自定义 background-image 属性即可</p>\n<p>修改时间<br />\n<img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/20240730205866117b6071d9c885b2a.png\" alt=\"在这里插入图片描述\" /><br />\n修改 futureTime 属性即可 格式 &quot;xxxx-xx-xx xx:xx:xx&quot;</p>\n<p>修改字体<br />\n<img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302058544bdc4e5dad4ddf88b.png\" alt=\"在这里插入图片描述\" /><br />\n修改自己需要的字体即可</p>\n<h1 id=\"️三-源码下载\"><a class=\"anchor\" href=\"#️三-源码下载\">#</a> ✒️三、源码下载</h1>\n<p>GitHub: <a href=\"https://github.com/baobaoJK/CountDown-2023\">GitHub</a></p>\n<p>Gitee: <a href=\"https://gitee.com/baobao_JK/CountDown-2023\">Gitee</a></p>\n<h1 id=\"️四-视频展示地址\"><a class=\"anchor\" href=\"#️四-视频展示地址\">#</a> ✒️四、视频展示地址</h1>\n<p>Bilibili: <a href=\"https://www.bilibili.com/video/BV1Tb411d7ru\">bilibili</a></p>\n",
             "tags": [
                 "前端",
+                "JQuery",
                 "CSS3",
-                "JavaScript",
                 "前端",
-                "JQuery"
+                "JavaScript"
             ]
         },
         {
@@ -211,10 +211,10 @@
             "content_html": "<h1 id=\"前言\"><a class=\"anchor\" href=\"#前言\">#</a> 前言</h1>\n<p>此篇文章为 PHP 图书管理系统项目文章</p>\n<p>前端技术栈：<br />\nHTML5 + CSS3 + JavaScript + Bootstrap4 + Jquery + Jquery.pagination<br />\n 后端技术栈：<br />\nPHP + MySQL</p>\n<p>系统环境：<br />\n操作系统：Windows 10<br />\n 网页制作软件：VSCode<br />\n 数据库管理软件：Navicat Premium 15<br />\n 服务器环境：Apache 2.4.39<br />\nPHP 版本：php7.3.4nts<br />\n 数据库版本：MySQL 5.7.26</p>\n<p>本项目采用 MVC 模式书写</p>\n<p>项目文档地址 <a href=\"https://gitee.com/baobao_JK/PHP-Library/blob/master/%E6%96%87%E6%A1%A3/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md\">文档.md</a></p>\n<h1 id=\"管理员信息\"><a class=\"anchor\" href=\"#管理员信息\">#</a> 管理员信息</h1>\n<p>账号：Admin<br />\n 密码：123456</p>\n<h1 id=\"什么是mvc模式\"><a class=\"anchor\" href=\"#什么是mvc模式\">#</a> 什么是 MVC 模式？</h1>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/3536e1b2e57bcf8226b5dbd2d7ed06c8300b8c5ceb141273.png\" alt=\"3536e1b2e57bcf8226b5dbd2d7ed06c8\" /></p>\n<blockquote>\n<p>引用 runoob 对 MVC 的介绍 <a href=\"https://www.runoob.com/design-pattern/mvc-pattern.html\">源地址</a></p>\n</blockquote>\n<hr style=\" border:solid; width:100px; height:1px;\" color=#000000 size=1\">\n<h1 id=\"项目图片\"><a class=\"anchor\" href=\"#项目图片\">#</a> 项目图片</h1>\n<h2 id=\"登录页面\"><a class=\"anchor\" href=\"#登录页面\">#</a> 登录页面</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/2024073023231097228951816a4ee8b.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"管理页面仪表盘\"><a class=\"anchor\" href=\"#管理页面仪表盘\">#</a> 管理页面（仪表盘）</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/2024073023237463c3fe1e8eb9e9f03.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"图书管理页面\"><a class=\"anchor\" href=\"#图书管理页面\">#</a> 图书管理页面</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/20240730232377445d8bd360bf24177.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"借阅图书页面\"><a class=\"anchor\" href=\"#借阅图书页面\">#</a> 借阅图书页面</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/2024073023239568d8a83b9344afb87.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"归还图书页面\"><a class=\"anchor\" href=\"#归还图书页面\">#</a> 归还图书页面</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/2024073023238288f371eb844b1426f.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"超时查询页面\"><a class=\"anchor\" href=\"#超时查询页面\">#</a> 超时查询页面</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/20240730232241144da963802935008.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"用户管理页面\"><a class=\"anchor\" href=\"#用户管理页面\">#</a> 用户管理页面</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302322336246d28428c44d4ba.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"系统管理页面\"><a class=\"anchor\" href=\"#系统管理页面\">#</a> 系统管理页面</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302322358887194724d35ed41.png\" alt=\"在这里插入图片描述\" /></p>\n<h1 id=\"项目结构\"><a class=\"anchor\" href=\"#项目结构\">#</a> 项目结构</h1>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/20240730232226056e2274588f65b26.png\" alt=\"在这里插入图片描述\" /></p>\n<h1 id=\"数据库结构\"><a class=\"anchor\" href=\"#数据库结构\">#</a> 数据库结构</h1>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/20240730232234582b1952922339ce2.png\" alt=\"在这里插入图片描述\" /></p>\n<h1 id=\"项目介绍\"><a class=\"anchor\" href=\"#项目介绍\">#</a> 项目介绍</h1>\n<p>此项目模拟了学校图书管理系统</p>\n<h2 id=\"图书管理\"><a class=\"anchor\" href=\"#图书管理\">#</a> 图书管理</h2>\n<p>实现了对图书的增删改查，图书属性有 isbn 号码，数量，价格，出版社等信息</p>\n<h2 id=\"用户管理\"><a class=\"anchor\" href=\"#用户管理\">#</a> 用户管理</h2>\n<p>实现了对用户的增删改查，用户属性有 姓名，唯一借阅卡，唯一手机号等信息</p>\n<blockquote>\n<p>详细内容请观看项目文档 <a href=\"https://gitee.com/baobao_JK/PHP-Library/blob/master/%E6%96%87%E6%A1%A3/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md\">文档.md</a></p>\n</blockquote>\n<h1 id=\"源码获取\"><a class=\"anchor\" href=\"#源码获取\">#</a> 源码获取</h1>\n<p>GitHub：<a href=\"https://github.com/baobaoJK/PHP-Library\">GitHub</a></p>\n<p>Gitee：<a href=\"https://gitee.com/baobao_JK/PHP-Library\">Gitee</a></p>\n",
             "tags": [
                 "PHP实战项目",
-                "JQuery",
                 "BootStrap",
                 "MySQL",
-                "PHP"
+                "PHP",
+                "JQuery"
             ]
         },
         {
@@ -253,9 +253,9 @@
                 "前端",
                 "HTML5",
                 "CSS3",
-                "前端",
                 "HTML",
-                "CSS"
+                "CSS",
+                "前端"
             ]
         },
         {
