@@ -6239,3 +6239,8 @@ span.label {
 .audio.playing .cover .disc {
   animation-play-state: running;
 }
+#sakana-widget {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
