@@ -8,16 +8,8 @@
     <author>
       <name>筱原空</name>
     </author>
-    <updated>2024-08-02T16:22:15.682Z</updated>
+    <updated>2024-07-31T16:00:00.000Z</updated>
     <category term="二次元" />
-    <entry>
-        <id>https://ksamar.top/test/</id>
-        <title>这是一个测试</title>
-        <link rel="alternate" href="https://ksamar.top/test/"/>
-        <content type="html">&lt;h1 id=&#34;这是一个测试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#这是一个测试&#34;&gt;#&lt;/a&gt; 这是一个测试&lt;/h1&gt;
-</content>
-        <updated>2024-08-02T16:22:15.682Z</updated>
-    </entry>
     <entry>
         <id>https://ksamar.top/Hexo/</id>
         <title>一切的开始</title>
@@ -45,6 +37,7 @@
 &lt;p&gt;&lt;strong&gt;Hexo 文档 &lt;a href=&#34;https://hexo.io/zh-cn/docs/&#34;&gt;Docs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hexo 主题 &lt;a href=&#34;https://hexo.io/themes/&#34;&gt;Themes&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ShokaX &lt;a href=&#34;https://github.com/theme-shoka-x/hexo-theme-shokaX&#34;&gt;Github&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ShokaX 文档 &lt;a href=&#34;https://docs-hexo.shokax.top/&#34;&gt;Docs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p style=&#34;font-size:1.5rem; font-weight:700&#34;&gt; 鸣谢 &lt;a href=&#34;https://www.picgo.net/&#34; style=&#34;color: #4fd2ff&#34;&gt;@PicGo&lt;/a&gt; 提供了本网站的图床服务 &lt;/p&gt;
 </content>
         <updated>2024-07-31T16:00:00.000Z</updated>
@@ -312,8 +305,8 @@ cd Hexo
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407302315618c22e303877279870.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="IDEA" scheme="https://ksamar.top/categories/IDEA/" />
-        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="Java" scheme="https://ksamar.top/tags/Java/" />
+        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="JavaWeb" scheme="https://ksamar.top/tags/JavaWeb/" />
         <updated>2024-03-21T17:00:00.000Z</updated>
     </entry>
@@ -1264,8 +1257,8 @@ JavaScript 框架：JQuery&lt;/p&gt;
 &lt;p&gt;Bilibili -&amp;gt; &lt;a href=&#34;https://www.bilibili.com/video/BV1MN411r7iP&#34;&gt;Bilibili&lt;/a&gt;&lt;/p&gt;
 </content>
         <category term="前端" scheme="https://ksamar.top/categories/%E5%89%8D%E7%AB%AF/" />
-        <category term="HTML5" scheme="https://ksamar.top/tags/HTML5/" />
         <category term="JQuery" scheme="https://ksamar.top/tags/JQuery/" />
+        <category term="HTML5" scheme="https://ksamar.top/tags/HTML5/" />
         <category term="CSS3" scheme="https://ksamar.top/tags/CSS3/" />
         <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="JavaScript" scheme="https://ksamar.top/tags/JavaScript/" />
@@ -1777,8 +1770,8 @@ Default encoding for properties files：UTF-8&lt;br /&gt;
 如果本篇文章对你有所帮助，可以点赞收藏此文章，这对我更新文章有很大的帮助，谢谢！&lt;/p&gt;
 </content>
         <category term="IDEA" scheme="https://ksamar.top/categories/IDEA/" />
-        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="Java" scheme="https://ksamar.top/tags/Java/" />
+        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="JavaWeb" scheme="https://ksamar.top/tags/JavaWeb/" />
         <updated>2022-03-18T17:00:00.000Z</updated>
     </entry>
@@ -1910,8 +1903,8 @@ Default Encoding：UTF-8&lt;br /&gt;
 如果本篇文章对你有所帮助，可以点赞收藏此文章，这对我更新文章有很大的帮助，谢谢！&lt;/p&gt;
 </content>
         <category term="IDEA" scheme="https://ksamar.top/categories/IDEA/" />
-        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="Java" scheme="https://ksamar.top/tags/Java/" />
+        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="JavaWeb" scheme="https://ksamar.top/tags/JavaWeb/" />
         <updated>2022-03-18T16:00:00.000Z</updated>
     </entry>
@@ -1956,5 +1949,60 @@ Default Encoding：UTF-8&lt;br /&gt;
         <category term="CSS" scheme="https://ksamar.top/tags/CSS/" />
         <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <updated>2022-02-28T17:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/IDEA/Spring%20Boot%20%E3%81%AE%20%E7%83%AD%E9%83%A8%E7%BD%B2%E7%83%AD%E6%9B%B4%E6%96%B0/</id>
+        <title>Spring Boot の 热部署/热更新</title>
+        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/IDEA/Spring%20Boot%20%E3%81%AE%20%E7%83%AD%E9%83%A8%E7%BD%B2%E7%83%AD%E6%9B%B4%E6%96%B0/"/>
+        <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;p&gt;在写 &lt;strong&gt;SpringBoot&lt;/strong&gt; 项目频繁手动重启服务一定很麻烦吧？&lt;br /&gt;
+来试试添加 &lt;strong&gt;SpringBoot&lt;/strong&gt; 的 &lt;strong&gt;spring-boot-devtools&lt;/strong&gt; 热部署 / 热更新 的开发工具包吧！&lt;/p&gt;
+&lt;h1 id=&#34;一-添加工具包依赖&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-添加工具包依赖&#34;&gt;#&lt;/a&gt; 一、添加工具包依赖&lt;/h1&gt;
+&lt;p&gt;打开 &lt;strong&gt;SpringBoot&lt;/strong&gt; 项目工程下的 &lt;strong&gt;pom.xml&lt;/strong&gt; 文件&lt;br /&gt;
+在文件里添加以下代码&lt;/p&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;figcaption data-lang=&#34;XML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;&amp;lt;!--        SpringBoot 热更新		--&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;dependency&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;groupId&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;org.springframework.boot&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;groupId&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;artifactId&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;spring-boot-devtools&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;artifactId&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;scope&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;runtime&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;scope&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;optional&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;true&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;optional&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;dependency&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;添加完依赖之后 &lt;strong&gt;IDEA&lt;/strong&gt; 还需要进行一些操作&lt;/p&gt;
+&lt;h1 id=&#34;二-idea-の-设置-中文版本&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-idea-の-设置-中文版本&#34;&gt;#&lt;/a&gt; 二、IDEA の 设置 中文版本&lt;/h1&gt;
+&lt;h2 id=&#34;设置控制台的自动显示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设置控制台的自动显示&#34;&gt;#&lt;/a&gt; 设置控制台的自动显示&lt;/h2&gt;
+&lt;p&gt;快捷键&lt;font color=#a00&gt;&lt;strong&gt;Ctrl + Alt + S&lt;/strong&gt;&lt;/font&gt;&lt;br /&gt;
+&lt;em&gt;&lt;strong&gt;文件 -&amp;gt; 设置 -&amp;gt; 构建，执行，部署&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019068059f8120249c4f2c20.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019068508960769a97dc125c.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;注册自动编译事件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注册自动编译事件&#34;&gt;#&lt;/a&gt; 注册自动编译事件&lt;/h2&gt;
+&lt;p&gt;使用快捷键  &lt;font color=#a00&gt; &lt;strong&gt;Ctrl + Shift  + Alt + /&lt;/strong&gt; &lt;/font&gt; 调出界面&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301906724e5191ee5ca535e35.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
+选择 &lt;strong&gt;Registry...&lt;/strong&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301906878cb447ff25e74e3c5.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
+给 compiler.automake.allow.when.app.running 打上勾勾&lt;/p&gt;
+&lt;h2 id=&#34;自动更新项目文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自动更新项目文件&#34;&gt;#&lt;/a&gt; 自动更新项目文件&lt;/h2&gt;
+&lt;p&gt;点击 &lt;strong&gt;Edit Configurations...&lt;/strong&gt;&lt;br /&gt;
+ 编辑启动配置&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301906803f8b9bd9efff7d2fa.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
+给 &lt;strong&gt;On &#39;Update&#39; action:&lt;/strong&gt; 和 &lt;strong&gt;On frame deactivation:&lt;/strong&gt; 选择 &lt;font color=#a00&gt;Update classes and resources&lt;/font&gt; 然后点击 Apply 重启服务即可&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/20240730190682943c69f8ce529869f.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;三-idea-の-设置-英文版本&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三-idea-の-设置-英文版本&#34;&gt;#&lt;/a&gt; 三、IDEA の 设置 英文版本&lt;/h1&gt;
+&lt;h2 id=&#34;设置控制台的自动显示-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设置控制台的自动显示-2&#34;&gt;#&lt;/a&gt; 设置控制台的自动显示&lt;/h2&gt;
+&lt;p&gt;快捷键 &lt;font color=#a00&gt;&lt;strong&gt;Ctrl + Alt + S&lt;/strong&gt;&lt;/font&gt;&lt;br /&gt;
+&lt;em&gt;&lt;strong&gt;File -&amp;gt; Settings -&amp;gt; Build, Execution, Deployment -&amp;gt; Compiler&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019070072f0e7fcc690adad1.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/20240730190742078204c2fe0c02ba8.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;注册自动编译事件-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注册自动编译事件-2&#34;&gt;#&lt;/a&gt; 注册自动编译事件&lt;/h2&gt;
+&lt;p&gt;使用快捷键  &lt;font color=#a00&gt; &lt;strong&gt;Ctrl + Shift  + Alt + /&lt;/strong&gt; &lt;/font&gt; 调出界面&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301907230fddb1263167a0540.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
+选择 &lt;strong&gt;Registry...&lt;/strong&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301907376e980862138d7b2bd.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
+给 compiler.automake.allow.when.app.running 打上勾勾&lt;/p&gt;
+&lt;h2 id=&#34;自动更新项目文件-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自动更新项目文件-2&#34;&gt;#&lt;/a&gt; 自动更新项目文件&lt;/h2&gt;
+&lt;p&gt;点击 &lt;strong&gt;Edit Configurations...&lt;/strong&gt;&lt;br /&gt;
+ 编辑启动配置&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301907520739826bfcbd8c47a.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
+给 &lt;strong&gt;On &#39;Update&#39; action:&lt;/strong&gt; 和 &lt;strong&gt;On frame deactivation:&lt;/strong&gt; 选择 &lt;font color=#a00&gt;Update classes and resources&lt;/font&gt; 然后点击 Apply 重启服务即可&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301907272f81a49b4bef4fdcb.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h1&gt;
+&lt;p&gt;现在，只要每当你 Ctrl + S 保存一下文件，项目就会在 3~5 秒内自动编译重启你的项目，节省了手动重启项目的时间，&lt;s&gt;开发效率大大提高 (不是&lt;/s&gt;&lt;/p&gt;
+</content>
+        <category term="IDEA" scheme="https://ksamar.top/categories/IDEA/" />
+        <category term="intellij-idea" scheme="https://ksamar.top/tags/intellij-idea/" />
+        <category term="SpringBoot" scheme="https://ksamar.top/tags/SpringBoot/" />
+        <updated>2022-02-28T16:00:00.000Z</updated>
     </entry>
 </feed>

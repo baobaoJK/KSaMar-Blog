@@ -75,6 +75,10 @@
 .sakana-widget-icon--rotate {
   animation: sakana-widget-spin 2s linear infinite;
 }
+:root {
+  --waline-theme-color: #ff80ab !important;
+  --waline-active-color: #ff5f94 !important;
+}
 @-moz-keyframes sakana-widget-spin {
   100% {
     transform: rotate(360deg);
