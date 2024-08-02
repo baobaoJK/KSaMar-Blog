@@ -6245,7 +6245,7 @@ span.label {
 #sakana-widget {
   position: fixed;
   bottom: 0;
-  right: 0;
+  left: 0;
 }
 .sakana-widget *,
 .sakana-widget *::before,
