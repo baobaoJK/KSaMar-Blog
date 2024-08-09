@@ -79,8 +79,8 @@
                 "前端",
                 "HTML5",
                 "CSS3",
-                "前端",
-                "JavaScript"
+                "JavaScript",
+                "前端"
             ]
         },
         {
@@ -93,8 +93,8 @@
                 "前端",
                 "HTML5",
                 "CSS3",
-                "前端",
                 "JavaScript",
+                "前端",
                 "Sass"
             ]
         },
@@ -106,11 +106,11 @@
             "content_html": "<h1 id=\"简介\"><a class=\"anchor\" href=\"#简介\">#</a> 简介</h1>\n<p>全屏滚动 可自行设置背景图片，推荐大小为 1920x1080</p>\n<h1 id=\"开发环境\"><a class=\"anchor\" href=\"#开发环境\">#</a> 开发环境</h1>\n<p>网页制作工具：VSCode</p>\n<h1 id=\"项目图片\"><a class=\"anchor\" href=\"#项目图片\">#</a> 项目图片</h1>\n<h2 id=\"个人主页\"><a class=\"anchor\" href=\"#个人主页\">#</a> 个人主页</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302346567f4a1386513a36196.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"技能介绍\"><a class=\"anchor\" href=\"#技能介绍\">#</a> 技能介绍</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/20240730234616805cf7f235dfe7ed9.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"时间线\"><a class=\"anchor\" href=\"#时间线\">#</a> 时间线</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302346557e7b91046490731bb.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"兴趣爱好\"><a class=\"anchor\" href=\"#兴趣爱好\">#</a> 兴趣爱好</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/20240730234675476537dc836f7be42.png\" alt=\"在这里插入图片描述\" /></p>\n<h2 id=\"联系方式\"><a class=\"anchor\" href=\"#联系方式\">#</a> 联系方式</h2>\n<p><img loading=\"lazy\" data-src=\"https://img.picgo.net/2024/07/30/202407302346472b505d17c0c66852f.png\" alt=\"在这里插入图片描述\" /></p>\n<h1 id=\"项目地址\"><a class=\"anchor\" href=\"#项目地址\">#</a> 项目地址</h1>\n<p>GitHub: <a href=\"https://github.com/baobaoJK/ACGN-Personal-Profile\">GitHub</a></p>\n<p>Gitee: <a href=\"https://gitee.com/baobao_JK/ACGN-Personal-Profile\">Gitee</a></p>\n<h1 id=\"视频演示\"><a class=\"anchor\" href=\"#视频演示\">#</a> 视频演示</h1>\n<p>Bilibili -&gt; <a href=\"https://www.bilibili.com/video/BV1MN411r7iP\">Bilibili</a></p>\n",
             "tags": [
                 "前端",
-                "HTML5",
                 "JQuery",
+                "HTML5",
                 "CSS3",
-                "前端",
-                "JavaScript"
+                "JavaScript",
+                "前端"
             ]
         },
         {
@@ -123,8 +123,8 @@
                 "前端",
                 "HTML5",
                 "CSS3",
-                "前端",
-                "JavaScript"
+                "JavaScript",
+                "前端"
             ]
         },
         {
@@ -137,8 +137,8 @@
                 "前端",
                 "HTML5",
                 "CSS3",
-                "前端",
-                "JavaScript"
+                "JavaScript",
+                "前端"
             ]
         },
         {
@@ -199,8 +199,8 @@
                 "前端",
                 "JQuery",
                 "CSS3",
-                "前端",
-                "JavaScript"
+                "JavaScript",
+                "前端"
             ]
         },
         {
@@ -253,9 +253,9 @@
                 "前端",
                 "HTML5",
                 "CSS3",
+                "前端",
                 "HTML",
-                "CSS",
-                "前端"
+                "CSS"
             ]
         },
         {
