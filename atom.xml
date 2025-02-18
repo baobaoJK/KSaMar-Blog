@@ -8,8 +8,54 @@
     <author>
       <name>筱原空</name>
     </author>
-    <updated>2025-02-12T16:00:00.000Z</updated>
+    <updated>2025-02-16T09:00:00.000Z</updated>
     <category term="二次元" />
+    <entry>
+        <id>https://ksamar.top/Unity/VSCode/Unity&amp;VSCode/</id>
+        <title>如何在 Unity 中使用 VS Code 进行游戏开发</title>
+        <link rel="alternate" href="https://ksamar.top/Unity/VSCode/Unity&amp;VSCode/"/>
+        <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
+&lt;p&gt;本文介绍了如何在 Unity 中使用 VS Code 进行游戏开发&lt;/p&gt;
+&lt;h1 id=&#34;下载必要的开发环境安装包&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载必要的开发环境安装包&#34;&gt;#&lt;/a&gt; 下载必要的开发环境安装包&lt;/h1&gt;
+&lt;p&gt;进行 Unity 开发必不可少的就是 .NET (C#) 与 .NET Framework&lt;br /&gt;
+ 本文使用的 Unity 版本是 2022.3.17f1c1&lt;br /&gt;
+.NET 的版本是 8.0.406&lt;br /&gt;
+.NET FrameWork 的版本是 4.8.1&lt;/p&gt;
+&lt;p&gt;.NET 8.0 下载链接：&lt;a href=&#34;https://dotnet.microsoft.com/en-us/download&#34;&gt;点我跳转&lt;/a&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a7b98018e.png&#34; alt=&#34;S%PU5U4_L8BO{V1@ZPMIWI0.png&#34; /&gt;&lt;br /&gt;
+ 点击 .NET 8.0 下的 Download .NET SDK x64 即可&lt;/p&gt;
+&lt;p&gt;.NET Framework 4.8.1 下载链接：&lt;a href=&#34;https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481&#34;&gt;点我跳转&lt;/a&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a7b96a3ad.png&#34; alt=&#34;7({7T73K@%8}ZYJ5V9~@Y.png&#34; /&gt;&lt;br /&gt;
+ 点击 Download .NET Framework 4.8.1 Developer Pack 即可&lt;/p&gt;
+&lt;h1 id=&#34;在-unity-中设置-external-script-editor&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#在-unity-中设置-external-script-editor&#34;&gt;#&lt;/a&gt; 在 Unity 中设置 External Script Editor&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font color=&#34;red&#34;&gt;重要：&lt;br /&gt;
+你可能会遇到当 Unity 重启之后，原来设置的 External Script Editor 又恢复默认状态而不是 VSCode&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font color=&#34;red&#34;&gt;解决办法：&lt;br /&gt;
+使用管理员身份运行 Unity Hub 后再打开 Unity 进行设置&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当你选择用管理员身份运行时，打开 Unity Editor 时请选择 I wish to continue at my own risk 打开 Unity Editor&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1ab7c0362d.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;在 Unity 中找到 Edit -&amp;gt; Preferences… -&amp;gt; External Tools，然后点击 External Script Editor 并选择 VSCode 快捷键方式或者 EXE 程序&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a88b8828b.png&#34; alt=&#34;QQ图片20250216155119.png&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a7b953176.png&#34; alt=&#34;AG81E{KBF0PYAV~ZP017L31.png&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;检查-unity-中是否安装了-visual-studio-code-editor-资源包&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#检查-unity-中是否安装了-visual-studio-code-editor-资源包&#34;&gt;#&lt;/a&gt; 检查 Unity 中是否安装了 Visual Studio Code Editor 资源包&lt;/h1&gt;
+&lt;p&gt;首先打开 Window -&amp;gt; Package Manager&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a8b20695a.png&#34; alt=&#34;BYA%K68X)SPW1~M6U4ZE7.png&#34; /&gt;&lt;br /&gt;
+ 在 Package Manager 中选择 Packages: Unity Registry 并搜索 vs 差看是否已安装，已安装会显示 Remove 按钮&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a7b91fcb7.png&#34; alt=&#34;12.png&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;vs-code-插件安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vs-code-插件安装&#34;&gt;#&lt;/a&gt; VS Code 插件安装&lt;/h1&gt;
+&lt;p&gt;在 VSCode 中需要安装以下插件&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a7b898207.png&#34; alt=&#34;1212.png&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a7e4355f5.png&#34; alt=&#34;1&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a82a79386.png&#34; alt=&#34;123&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a8158ce73.png&#34; alt=&#34;1&#34; /&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a804489a8.png&#34; alt=&#34;1&#34; /&gt;&lt;br /&gt;
+ 安装完后，就可以在 VS Code 中丝滑的开发 Unity 游戏了&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/16/67b1a7b8ed27f.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="Unity" scheme="https://ksamar.top/categories/Unity/" />
+        <category term="Unity" scheme="https://ksamar.top/tags/Unity/" />
+        <updated>2025-02-16T09:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Vue+Python%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/JiTu/</id>
         <title>Vue3 + Python3 本地简易图库</title>
@@ -435,8 +481,8 @@ cd Hexo
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407302315618c22e303877279870.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="IDEA" scheme="https://ksamar.top/categories/IDEA/" />
-        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="Java" scheme="https://ksamar.top/tags/Java/" />
+        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="JavaWeb" scheme="https://ksamar.top/tags/JavaWeb/" />
         <updated>2024-03-21T17:00:00.000Z</updated>
     </entry>
@@ -1900,142 +1946,9 @@ Default encoding for properties files：UTF-8&lt;br /&gt;
 如果本篇文章对你有所帮助，可以点赞收藏此文章，这对我更新文章有很大的帮助，谢谢！&lt;/p&gt;
 </content>
         <category term="IDEA" scheme="https://ksamar.top/categories/IDEA/" />
-        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="Java" scheme="https://ksamar.top/tags/Java/" />
+        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="JavaWeb" scheme="https://ksamar.top/tags/JavaWeb/" />
         <updated>2022-03-18T17:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/IDEA/IDEA%202020%20%E4%B8%8E%20IDEA%202021%20%E5%88%9B%E5%BB%BA%20JavaWeb%20%E9%A1%B9%E7%9B%AE/</id>
-        <title>IDEA 2020 与 IDEA 2021 创建 JavaWeb 项目</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/IDEA/IDEA%202020%20%E4%B8%8E%20IDEA%202021%20%E5%88%9B%E5%BB%BA%20JavaWeb%20%E9%A1%B9%E7%9B%AE/"/>
-        <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
-&lt;p&gt;此教程为 IDEA 2020 与 IDEA 2021 创建 JavaWeb 项目&lt;br /&gt;
-软件：IDEA 2021 版&lt;/p&gt;
-&lt;h1 id=&#34;一-创建-javaweb-项目中文版&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-创建-javaweb-项目中文版&#34;&gt;#&lt;/a&gt; 一、创建 JavaWeb 项目（中文版）&lt;/h1&gt;
-&lt;h2 id=&#34;创建java项目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创建java项目&#34;&gt;#&lt;/a&gt; 创建 Java 项目&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;文件&lt;/strong&gt; -&amp;gt; &lt;strong&gt;新建&lt;/strong&gt; -&amp;gt; &lt;strong&gt;项目&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Java 模块&lt;/strong&gt;&lt;br /&gt;
-然后一直下一步，输入好项目名，选择好 &lt;strong&gt;JavaWeb&lt;/strong&gt; 项目目录点击完成&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/20240730192996500a1fe7a823b299f.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;给-java-项目添加-javaweb-支持&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#给-java-项目添加-javaweb-支持&#34;&gt;#&lt;/a&gt; 给 Java 项目添加 JavaWeb 支持&lt;/h2&gt;
-&lt;p&gt;右键项目模块，点击&lt;strong&gt;添加框架支持&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019297967b35729da4b0a42e.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-选择 &lt;strong&gt;Web 应用程序 (4.0)&lt;/strong&gt;，默认版本为 4.0，勾选创建 web.xml&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019293414ddb1f8fab005f0a.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-在 &lt;strong&gt;web&lt;/strong&gt; 目录下的 &lt;strong&gt;WEB-INF&lt;/strong&gt; 里创建库文件夹 &lt;strong&gt;lib&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019290066fd1f06a2eb11b3c.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-右键项目模块，点击&lt;strong&gt;打开模块设置&lt;/strong&gt;，点击&lt;strong&gt;模块&lt;/strong&gt; -&amp;gt; &lt;strong&gt;依赖&lt;/strong&gt; -&amp;gt; **+** 号，点击 &lt;strong&gt;JAR 或目录&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019297521da4d67102c92b4a.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-在这里选择我们刚才创建的库目录 &lt;strong&gt;lib&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/20240730192970600656d2b24e41dbd.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-在这里选择所选文件的类别为 &lt;strong&gt;Jar Directory&lt;/strong&gt;，然后点击确定&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929433f4da261f24de7679.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;设置项目编码为-utf-8&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设置项目编码为-utf-8&#34;&gt;#&lt;/a&gt; 设置项目编码为 UTF-8&lt;/h2&gt;
-&lt;p&gt;点击 &lt;strong&gt;文件&lt;/strong&gt; -&amp;gt; &lt;strong&gt;设置&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929050e151553b6933c932.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-点击 &lt;strong&gt;编辑器&lt;/strong&gt; -&amp;gt; &lt;strong&gt;文件编码&lt;/strong&gt;&lt;br /&gt;
-全局编码：UTF-8&lt;br /&gt;
- 项目编码：UTF-8&lt;br /&gt;
- 属性文件的默认编码：UTF-8&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929694e407eb276c71ed08.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;设置控制台输出编码为-utf-8&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设置控制台输出编码为-utf-8&#34;&gt;#&lt;/a&gt; 设置控制台输出编码为 UTF-8&lt;/h2&gt;
-&lt;p&gt;点击 &lt;strong&gt;编辑器&lt;/strong&gt; -&amp;gt; &lt;strong&gt;常规&lt;/strong&gt; -&amp;gt; &lt;strong&gt;控制台&lt;/strong&gt;&lt;br /&gt;
-默认编码：UTF-8&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/20240730192997212e39be449c7f342.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;配置-tomcat-服务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置-tomcat-服务&#34;&gt;#&lt;/a&gt; 配置 Tomcat 服务&lt;/h2&gt;
-&lt;p&gt;点击顶部右上角的 &lt;strong&gt;添加配置...&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/20240730192913737eb072842e2f9d9.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-点击左上角的 &lt;strong&gt;+&lt;/strong&gt; 号，滑到底部，选择 &lt;strong&gt;Tomcat 服务器&lt;/strong&gt; -&amp;gt; &lt;strong&gt;本地&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019295616541872b95a6028a.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-填写 Tomcat 名称，选择 &lt;strong&gt;服务器&lt;/strong&gt; -&amp;gt; &lt;strong&gt;配置&lt;/strong&gt;，在这里选择你的 &lt;strong&gt;Tomcat 服务器&lt;/strong&gt; 文件夹目录，然后点击确定&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019297851c8c91512d87a46e.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-如果你想在 Web 服务器启动后自动打开浏览器，勾选 &lt;strong&gt;在启动后&lt;/strong&gt; 选项，可以自定义选择打开的浏览器，如果不想在 Web 服务器启动后自动打开浏览器，请取消勾选此选项&lt;/p&gt;
-&lt;p&gt;在 &lt;strong&gt;虚拟机选项&lt;/strong&gt; 写入 &lt;strong&gt;-Dfile.encoding=UTF-8&lt;/strong&gt; 可以解决乱码问题&lt;/p&gt;
-&lt;p&gt;URL 是此 &lt;strong&gt;Web 项目&lt;/strong&gt; 的访问地址&lt;/p&gt;
-&lt;p&gt;HTTP 端口，这里设置的是 &lt;strong&gt;Web 项目&lt;/strong&gt; 的访问端口，如果使用 8080 端口冲突了，可以设置 8081,8082 等没有冲突的端口&lt;/p&gt;
-&lt;p&gt;最后点击下面的 &lt;strong&gt;修正&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019287455eac5fe670f760b4.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-在 &lt;strong&gt;应用程序上下文&lt;/strong&gt; 写入访问目录的名称&lt;br /&gt;
- URL 格式：localhost: 端口号 / 项目名称 /&lt;br /&gt;
- 例子：localhost:8080/javaweb/ 输入此 URL 即可访问 JavaWeb 项目&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301928684f3a84716082eff28.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;将-tomcat-的包添加到项目中&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将-tomcat-的包添加到项目中&#34;&gt;#&lt;/a&gt; 将 Tomcat 的包添加到项目中&lt;/h2&gt;
-&lt;p&gt;JavaWeb 项目默认是不自带 Servlet 相关的包，在配置完 Tomcat 服务器后，需手动把 Tomcat 添加到引&lt;br /&gt;
-用当中&lt;br /&gt;
-点击 &lt;strong&gt;文件&lt;/strong&gt; -&amp;gt; &lt;strong&gt;项目结构&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019286007f98c9a987d277d3.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-点击 &lt;strong&gt;模块&lt;/strong&gt; -&amp;gt; &lt;strong&gt;依赖&lt;/strong&gt; -&amp;gt; &lt;strong&gt;+&lt;/strong&gt; -&amp;gt; &lt;strong&gt;库&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301928751918c27ae1d5c4ea6.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-选择 &lt;strong&gt;Tomcat 服务器&lt;/strong&gt; -&amp;gt; &lt;strong&gt;添加到所选项&lt;/strong&gt; 后点击确定即可&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301928809b4934cbfaa7f414a.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;javaweb项目热部署热加载&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#javaweb项目热部署热加载&#34;&gt;#&lt;/a&gt; JavaWeb 项目热部署 / 热加载&lt;/h2&gt;
-&lt;p&gt;请参考本作作者写的 &lt;a href=&#34;https://blog.csdn.net/qq_29023593/article/details/123218225&#34;&gt;Spring Boot の 热部署 / 热更新&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;二-创建-javaweb-项目英文版&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-创建-javaweb-项目英文版&#34;&gt;#&lt;/a&gt; 二、创建 JavaWeb 项目（英文版）&lt;/h1&gt;
-&lt;h2 id=&#34;创建java项目-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创建java项目-2&#34;&gt;#&lt;/a&gt; 创建 Java 项目&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;File&lt;/strong&gt; -&amp;gt; &lt;strong&gt;New&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Project&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Java&lt;/strong&gt;&lt;br /&gt;
- 然后一直下一步，输入好项目名，选择好 &lt;strong&gt;JavaWeb&lt;/strong&gt; 项目目录点击完成&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/20240730192867110de9c319aaa601f.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;给-java-项目添加-javaweb-支持-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#给-java-项目添加-javaweb-支持-2&#34;&gt;#&lt;/a&gt; 给 Java 项目添加 JavaWeb 支持&lt;/h2&gt;
-&lt;p&gt;右键项目模块，点击 &lt;strong&gt;Add Framework Support...&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019296859a02adb9c7ea0740.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-选择 &lt;strong&gt;Web Application(4.0)&lt;/strong&gt;，默认版本为 4.0，勾选创建 web.xml&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019299343cbeb4e78fffde44.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-在 &lt;strong&gt;web&lt;/strong&gt; 目录下的 &lt;strong&gt;WEB-INF&lt;/strong&gt; 里创建库文件夹 &lt;strong&gt;lib&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019290066fd1f06a2eb11b3c.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-右键项目模块，点击 &lt;strong&gt;Open Module Settings&lt;/strong&gt;，点击 &lt;strong&gt;Modules&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Dependencies&lt;/strong&gt; -&amp;gt; **+** 号，点击 &lt;strong&gt;JARs or Directories...&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929134933e55e085b48eb6.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;在这里选择我们刚才创建的库目录 &lt;strong&gt;lib&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929715b1ace49f3c3794e5.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;在这里选择所选文件的类别为 &lt;strong&gt;Jar Directory&lt;/strong&gt;，然后点击确定&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929948b7f3bd53377537ad.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;设置项目编码为-utf-8-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设置项目编码为-utf-8-2&#34;&gt;#&lt;/a&gt; 设置项目编码为 UTF-8&lt;/h2&gt;
-&lt;p&gt;点击 &lt;strong&gt;File&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Settings...&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019290743abda6b4728cc380.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;点击 &lt;strong&gt;Editor&lt;/strong&gt; -&amp;gt; &lt;strong&gt;File Encodings&lt;/strong&gt;&lt;br /&gt;
-Global Encoding：UTF-8&lt;br /&gt;
-Project Encoding：UTF-8&lt;br /&gt;
-Default encoding for properties files：UTF-8&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929966fccddce65718564d.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;设置控制台输出编码为-utf-8-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设置控制台输出编码为-utf-8-2&#34;&gt;#&lt;/a&gt; 设置控制台输出编码为 UTF-8&lt;/h2&gt;
-&lt;p&gt;点击 &lt;strong&gt;Editor&lt;/strong&gt; -&amp;gt; &lt;strong&gt;General&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Console&lt;/strong&gt;&lt;br /&gt;
-Default Encoding：UTF-8&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019290407b7de8099fbd5c8f.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;配置-tomcat-服务-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置-tomcat-服务-2&#34;&gt;#&lt;/a&gt; 配置 Tomcat 服务&lt;/h2&gt;
-&lt;p&gt;点击顶部右上角的 &lt;strong&gt;ADD CONFIGURATION...&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/20240730192930789adbd30ad59077a.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;点击左上角的 &lt;strong&gt;+&lt;/strong&gt; 号，滑到底部，选择 &lt;strong&gt;Tomcat Server&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Local&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929655391ffdd610b1a9c1.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;填写 Tomcat 名称，选择 &lt;strong&gt;Server&lt;/strong&gt; -&amp;gt; &lt;strong&gt;CONFIGURE...&lt;/strong&gt;，在这里选择你的 &lt;strong&gt;Tomcat 服务器&lt;/strong&gt; 文件夹目录，然后点击确定&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929205aeb1ef7c3eab0fd1.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;如果你想在 Web 服务器启动后自动打开浏览器，勾选 &lt;strong&gt;After launch&lt;/strong&gt; 选项，可以自定义选择打开的浏览器，如果不想在 Web 服务器启动后自动打开浏览器，请取消勾选此选项&lt;/p&gt;
-&lt;p&gt;在 &lt;strong&gt;VM options&lt;/strong&gt; 写入 &lt;strong&gt;-Dfile.encoding=UTF-8&lt;/strong&gt; 可以解决乱码问题&lt;/p&gt;
-&lt;p&gt;URL 是此 &lt;strong&gt;Web 项目&lt;/strong&gt; 的访问地址&lt;/p&gt;
-&lt;p&gt;HTTP port，这里设置的是 &lt;strong&gt;Web 项目&lt;/strong&gt; 的访问端口，如果使用 8080 端口冲突了，可以设置 8081,8082 等没有冲突的端口&lt;/p&gt;
-&lt;p&gt;最后点击下面的 &lt;strong&gt;FIX&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929974200b4b830cf772e5.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-在 &lt;strong&gt;Application context&lt;/strong&gt; 写入访问目录的名称&lt;br /&gt;
- URL 格式：localhost: 端口号 / 项目名称 /&lt;br /&gt;
- 例子：localhost:8080/javaweb/ 输入此 URL 即可访问 JavaWeb 项目&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/20240730192918472d422c3d2381f9e.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;将-tomcat-的包添加到项目中-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将-tomcat-的包添加到项目中-2&#34;&gt;#&lt;/a&gt; 将 Tomcat 的包添加到项目中&lt;/h2&gt;
-&lt;p&gt;JavaWeb 项目默认是不自带 Servlet 相关的包，在配置完 Tomcat 服务器后，需手动把 Tomcat 添加到引&lt;br /&gt;
-用当中&lt;br /&gt;
-点击 &lt;strong&gt;File&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Project Structure...&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019290991434143bde8682d1.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;点击 &lt;strong&gt;Modules&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Dependencies&lt;/strong&gt; -&amp;gt; &lt;strong&gt;+&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Library...&lt;/strong&gt;&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073019294842488f94a7bd7df5d.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;br /&gt;
-选择 &lt;strong&gt;Tomcat 服务器&lt;/strong&gt; -&amp;gt; &lt;strong&gt;ADD SELECTED&lt;/strong&gt; 后点击 &lt;strong&gt;OK&lt;/strong&gt; 即可&lt;br /&gt;
-&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407301929479c762b513e59e0d2c.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;javaweb项目热部署热加载-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#javaweb项目热部署热加载-2&#34;&gt;#&lt;/a&gt; JavaWeb 项目热部署 / 热加载&lt;/h2&gt;
-&lt;p&gt;请参考本作作者写的 &lt;a href=&#34;/IDEA/Spring%20Boot%20%E3%81%AE%20%E7%83%AD%E9%83%A8%E7%BD%B2%E7%83%AD%E6%9B%B4%E6%96%B0/&#34;&gt;Spring Boot の 热部署 / 热更新&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h1&gt;
-&lt;p&gt;以上就是创建 JavaWeb 项目的教程，感谢观看。&lt;br /&gt;
-如果本篇文章对你有所帮助，可以点赞收藏此文章，这对我更新文章有很大的帮助，谢谢！&lt;/p&gt;
-</content>
-        <category term="IDEA" scheme="https://ksamar.top/categories/IDEA/" />
-        <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
-        <category term="Java" scheme="https://ksamar.top/tags/Java/" />
-        <category term="JavaWeb" scheme="https://ksamar.top/tags/JavaWeb/" />
-        <updated>2022-03-18T16:00:00.000Z</updated>
     </entry>
 </feed>
