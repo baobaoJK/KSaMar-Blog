@@ -11,9 +11,9 @@
     <updated>2025-02-16T09:00:00.000Z</updated>
     <category term="二次元" />
     <entry>
-        <id>https://ksamar.top/Unity/VSCode/Unity&amp;VSCode/</id>
+        <id>https://ksamar.top/unity/vscode/dev/</id>
         <title>如何在 Unity 中使用 VS Code 进行游戏开发</title>
-        <link rel="alternate" href="https://ksamar.top/Unity/VSCode/Unity&amp;VSCode/"/>
+        <link rel="alternate" href="https://ksamar.top/unity/vscode/dev/"/>
         <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;p&gt;本文介绍了如何在 Unity 中使用 VS Code 进行游戏开发&lt;/p&gt;
 &lt;h1 id=&#34;下载必要的开发环境安装包&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载必要的开发环境安装包&#34;&gt;#&lt;/a&gt; 下载必要的开发环境安装包&lt;/h1&gt;
@@ -57,9 +57,9 @@
         <updated>2025-02-16T09:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Vue+Python%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/JiTu/</id>
+        <id>https://ksamar.top/web/vue-python/jitu/</id>
         <title>Vue3 + Python3 本地简易图库</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Vue+Python%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/JiTu/"/>
+        <link rel="alternate" href="https://ksamar.top/web/vue-python/jitu/"/>
         <content type="html">&lt;h1 id=&#34;jitu&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#jitu&#34;&gt;#&lt;/a&gt; JiTu&lt;/h1&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/02/13/67adb6117ba98.png&#34; alt=&#34;jitu.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;名称：JiTu / 己图&lt;/p&gt;
@@ -127,16 +127,16 @@ pnpm run dev
 &lt;p&gt;欢迎在哔哩哔哩上关注我&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://space.bilibili.com/51110915&#34;&gt;Bilibili&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="Vue+Python实战项目" scheme="https://ksamar.top/categories/Vue-Python%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/" />
+        <category term="Vue+Python实战项目" scheme="https://ksamar.top/categories/vue-python/" />
         <category term="Vue" scheme="https://ksamar.top/tags/Vue/" />
         <category term="Flask" scheme="https://ksamar.top/tags/Flask/" />
         <category term="Python" scheme="https://ksamar.top/tags/Python/" />
         <updated>2025-02-12T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Vue+Python%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/Vue3%20+%20Python3%20+%20Flask%20+%20SocketIO%20%E5%8D%B3%E6%97%B6%E5%9C%A8%E7%BA%BF%E5%A4%9A%E4%BA%BA%E8%81%8A%E5%A4%A9%E5%AE%A4/</id>
+        <id>https://ksamar.top/web/vue-python/fast-chat-x/</id>
         <title>Vue3 + Python3 + Flask + SocketIO 即时在线多人聊天室</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Vue+Python%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/Vue3%20+%20Python3%20+%20Flask%20+%20SocketIO%20%E5%8D%B3%E6%97%B6%E5%9C%A8%E7%BA%BF%E5%A4%9A%E4%BA%BA%E8%81%8A%E5%A4%A9%E5%AE%A4/"/>
+        <link rel="alternate" href="https://ksamar.top/web/vue-python/fast-chat-x/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2024/08/28/66ce35134522a.png&#34; alt=&#34;FCX_256.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;名称：Fast-Chat-X / 极聊 X&lt;/p&gt;
@@ -179,17 +179,17 @@ pnpm run dev
 &lt;h1 id=&#34;项目视频地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#项目视频地址&#34;&gt;#&lt;/a&gt; 项目视频地址&lt;/h1&gt;
 &lt;p&gt;Bilibili -&amp;gt; &lt;a href=&#34;https://www.bilibili.com/video/BV13UsweLEPw/&#34;&gt;Bilibili&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="Vue+Python实战项目" scheme="https://ksamar.top/categories/Vue-Python%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/" />
+        <category term="Vue+Python实战项目" scheme="https://ksamar.top/categories/vue-python/" />
         <category term="Vue" scheme="https://ksamar.top/tags/Vue/" />
         <category term="Flask" scheme="https://ksamar.top/tags/Flask/" />
-        <category term="Python" scheme="https://ksamar.top/tags/Python/" />
         <category term="SocketIO" scheme="https://ksamar.top/tags/SocketIO/" />
+        <category term="Python" scheme="https://ksamar.top/tags/Python/" />
         <updated>2024-08-26T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Hexo/</id>
+        <id>https://ksamar.top/hexo/</id>
         <title>一切的开始</title>
-        <link rel="alternate" href="https://ksamar.top/Hexo/"/>
+        <link rel="alternate" href="https://ksamar.top/hexo/"/>
         <content type="html">&lt;h1 id=&#34;一切的开始&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一切的开始&#34;&gt;#&lt;/a&gt; 一切的开始&lt;/h1&gt;
 &lt;p&gt;你好，朋友！&lt;/p&gt;
 &lt;hr /&gt;
@@ -199,10 +199,10 @@ pnpm run dev
 &lt;p&gt;喜欢的角色：和泉纱雾&lt;/p&gt;
 &lt;p&gt;Minecraft 游戏 ID：baobao_JK&lt;/p&gt;
 &lt;p&gt;我的联系方式：&lt;/p&gt;
-&lt;p&gt;WeChat: KSaMar&lt;/p&gt;
+&lt;p&gt;WeChat: XiaoYuan_Kong&lt;/p&gt;
 &lt;p&gt;QQ：2902352743&lt;/p&gt;
 &lt;p&gt;我的 Web 技术交流群：854197159&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/84694f5034de2c17dba8f06f70bd2c5615c79740ae699324.gif&#34; alt=&#34;和泉纱雾&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6866af11cad6a.gif&#34; alt=&#34;和泉纱雾&#34; width=&#34;400px&#34; height=&#34;300px&#34; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;这是我的第一个博客，搭建个人博客的这个想法已经有两年了，我在 WordPress 和 Hexo 中选择了 Hexo 来搭建此博客。&lt;/p&gt;
 &lt;p&gt;我在 Hexo 官网中遇到了几个我比较喜欢的主题&lt;/p&gt;
@@ -214,14 +214,13 @@ pnpm run dev
 &lt;p&gt;&lt;strong&gt;Hexo 主题 &lt;a href=&#34;https://hexo.io/themes/&#34;&gt;Themes&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ShokaX &lt;a href=&#34;https://github.com/theme-shoka-x/hexo-theme-shokaX&#34;&gt;Github&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ShokaX 文档 &lt;a href=&#34;https://docs-hexo.shokax.top/&#34;&gt;Docs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&#34;font-size:1.5rem; font-weight:700&#34;&gt; 鸣谢 &lt;a href=&#34;https://www.picgo.net/&#34; style=&#34;color: #4fd2ff&#34;&gt;@PicGo&lt;/a&gt; 提供了本网站的图床服务 &lt;/p&gt;
 </content>
         <updated>2024-07-31T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/%E4%BB%8E%200%20%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%20Hexo%20%E5%8D%9A%E5%AE%A2%E5%B9%B6%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A/</id>
+        <id>https://ksamar.top/sharing-experience/hexo/</id>
         <title>从 0 开始搭建 Hexo 博客并自动部署到服务器上</title>
-        <link rel="alternate" href="https://ksamar.top/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/%E4%BB%8E%200%20%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%20Hexo%20%E5%8D%9A%E5%AE%A2%E5%B9%B6%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A/"/>
+        <link rel="alternate" href="https://ksamar.top/sharing-experience/hexo/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;本篇文章分为以下三个部分&lt;/p&gt;
 &lt;p&gt;一、Hexo 博客搭建&lt;/p&gt;
@@ -422,15 +421,15 @@ cd Hexo
 &lt;p&gt;欢迎关注我的 Bilibili 账号 &lt;a href=&#34;https://space.bilibili.com/51110915&#34;&gt;KSaMar&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我的个人微信公众号 筱原空的变成小屋&lt;/p&gt;
 </content>
-        <category term="心得分享" scheme="https://ksamar.top/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/" />
+        <category term="心得分享" scheme="https://ksamar.top/categories/sharing-experience/" />
         <category term="Hexo" scheme="https://ksamar.top/tags/Hexo/" />
         <category term="GitHub" scheme="https://ksamar.top/tags/GitHub/" />
         <updated>2024-07-30T17:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/IDEA/IDEA%202023%20%E5%88%9B%E5%BB%BA%20JSP%20%E9%A1%B9%E7%9B%AE/</id>
+        <id>https://ksamar.top/web/idea/idea-2023/</id>
         <title>IDEA 2023 创建 JSP 项目</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/IDEA/IDEA%202023%20%E5%88%9B%E5%BB%BA%20JSP%20%E9%A1%B9%E7%9B%AE/"/>
+        <link rel="alternate" href="https://ksamar.top/web/idea/idea-2023/"/>
         <content type="html">&lt;h1 id=&#34;新建项目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新建项目&#34;&gt;#&lt;/a&gt; 新建项目&lt;/h1&gt;
 &lt;p&gt;选择新建项目，输入名称，选择项目路径位置，选择 JDK 版本后，创建项目&lt;br /&gt;
 &lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/2024073023155439fb877769bd368f4.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
@@ -480,16 +479,16 @@ cd Hexo
 &lt;p&gt;也有可能 文件名书写错误，请认真检查单词拼写&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407302315618c22e303877279870.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="IDEA" scheme="https://ksamar.top/categories/IDEA/" />
+        <category term="IDEA" scheme="https://ksamar.top/categories/idea/" />
         <category term="Java" scheme="https://ksamar.top/tags/Java/" />
         <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="JavaWeb" scheme="https://ksamar.top/tags/JavaWeb/" />
         <updated>2024-03-21T17:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/JSP%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/JSP%20+%20MySql%20+%20BootStrap4%20%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%BD%91%E4%B8%8A%E4%B9%A6%E5%9F%8E%E9%A1%B9%E7%9B%AE/</id>
+        <id>https://ksamar.top/web/jsp/jsp-net-book/</id>
         <title>JSP + MySql + BootStrap4 一个简单的网上书城项目</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/JSP%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/JSP%20+%20MySql%20+%20BootStrap4%20%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%BD%91%E4%B8%8A%E4%B9%A6%E5%9F%8E%E9%A1%B9%E7%9B%AE/"/>
+        <link rel="alternate" href="https://ksamar.top/web/jsp/jsp-net-book/"/>
         <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;p&gt;项目名称：网上书城&lt;/p&gt;
 &lt;p&gt;技术栈：JSP + JavaBean + Servlet + JSTL 标签 + Bootstrap4 + MySQL&lt;/p&gt;
@@ -1091,9 +1090,9 @@ cd Hexo
         <updated>2024-03-21T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/JSP%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/JSP%20+%20MySql%20+%20BootStrap4%20%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
+        <id>https://ksamar.top/web/jsp/jsp-student/</id>
         <title>JSP + MySql + BootStrap4 一个简单的学生信息管理系统</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/JSP%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/JSP%20+%20MySql%20+%20BootStrap4%20%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+        <link rel="alternate" href="https://ksamar.top/web/jsp/jsp-student/"/>
         <content type="html">&lt;h1 id=&#34;学生信息管理系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学生信息管理系统&#34;&gt;#&lt;/a&gt; 学生信息管理系统&lt;/h1&gt;
 &lt;p&gt;项目名称：学生信息管理系统&lt;/p&gt;
 &lt;p&gt;技术栈：JSP + Servlet + JSTL 标签 + JavaBean + bootstrap4 + MySQL&lt;/p&gt;
@@ -1332,9 +1331,9 @@ cd Hexo
         <updated>2024-03-18T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E6%A5%B5%E5%85%89%20-%20AEON%20%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</id>
+        <id>https://ksamar.top/web/front-end/aeon/</id>
         <title>極光 - AEON 音乐播放器</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E6%A5%B5%E5%85%89%20-%20AEON%20%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/"/>
+        <link rel="alternate" href="https://ksamar.top/web/front-end/aeon/"/>
         <content type="html">&lt;h1 id=&#34;極光-aeon-音乐播放器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#極光-aeon-音乐播放器&#34;&gt;#&lt;/a&gt; 極光 - AEON 音乐播放器&lt;/h1&gt;
 &lt;p&gt;名称：極光 - AEON 音乐播放器&lt;/p&gt;
 &lt;p&gt;作者：KSaMar&lt;/p&gt;
@@ -1365,17 +1364,17 @@ cd Hexo
 &lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/baobaoJK/Aurora-AEON&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Gitee: &lt;a href=&#34;https://gitee.com/baobao_JK/Aurora-AEON&#34;&gt;Gitee&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="前端" scheme="https://ksamar.top/categories/%E5%89%8D%E7%AB%AF/" />
+        <category term="前端" scheme="https://ksamar.top/categories/front-end/" />
         <category term="HTML5" scheme="https://ksamar.top/tags/HTML5/" />
         <category term="CSS3" scheme="https://ksamar.top/tags/CSS3/" />
-        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="JavaScript" scheme="https://ksamar.top/tags/JavaScript/" />
+        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <updated>2023-07-15T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E5%8D%81%E4%BA%94%E4%B8%AA%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%A1%A8%E5%8D%95%E9%A1%B5%E9%9D%A2/</id>
+        <id>https://ksamar.top/web/front-end/15-login-page/</id>
         <title>十五个不同风格的表单页面</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E5%8D%81%E4%BA%94%E4%B8%AA%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E8%A1%A8%E5%8D%95%E9%A1%B5%E9%9D%A2/"/>
+        <link rel="alternate" href="https://ksamar.top/web/front-end/15-login-page/"/>
         <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;p&gt;此篇文章为 十五个不同风格的表单页面 项目文章&lt;br /&gt;
 作者：KSaMar&lt;br /&gt;
@@ -1399,18 +1398,18 @@ JavaScript 框架：JQuery&lt;/p&gt;
 &lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/baobaoJK/15-different-styles-of-forms&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Gitee: &lt;a href=&#34;https://gitee.com/baobao_JK/15-different-styles-of-forms&#34;&gt;Gitee&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="前端" scheme="https://ksamar.top/categories/%E5%89%8D%E7%AB%AF/" />
+        <category term="前端" scheme="https://ksamar.top/categories/front-end/" />
         <category term="HTML5" scheme="https://ksamar.top/tags/HTML5/" />
         <category term="CSS3" scheme="https://ksamar.top/tags/CSS3/" />
-        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
-        <category term="JavaScript" scheme="https://ksamar.top/tags/JavaScript/" />
         <category term="Sass" scheme="https://ksamar.top/tags/Sass/" />
+        <category term="JavaScript" scheme="https://ksamar.top/tags/JavaScript/" />
+        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <updated>2023-07-07T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B%E4%B8%BB%E9%A1%B5/</id>
+        <id>https://ksamar.top/web/front-end/personal-profile/</id>
         <title>个人简介主页</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B%E4%B8%BB%E9%A1%B5/"/>
+        <link rel="alternate" href="https://ksamar.top/web/front-end/personal-profile/"/>
         <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;p&gt;全屏滚动 可自行设置背景图片，推荐大小为 1920x1080&lt;/p&gt;
 &lt;h1 id=&#34;开发环境&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开发环境&#34;&gt;#&lt;/a&gt; 开发环境&lt;/h1&gt;
@@ -1432,18 +1431,18 @@ JavaScript 框架：JQuery&lt;/p&gt;
 &lt;h1 id=&#34;视频演示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#视频演示&#34;&gt;#&lt;/a&gt; 视频演示&lt;/h1&gt;
 &lt;p&gt;Bilibili -&amp;gt; &lt;a href=&#34;https://www.bilibili.com/video/BV1MN411r7iP&#34;&gt;Bilibili&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="前端" scheme="https://ksamar.top/categories/%E5%89%8D%E7%AB%AF/" />
+        <category term="前端" scheme="https://ksamar.top/categories/front-end/" />
         <category term="HTML5" scheme="https://ksamar.top/tags/HTML5/" />
-        <category term="JQuery" scheme="https://ksamar.top/tags/JQuery/" />
         <category term="CSS3" scheme="https://ksamar.top/tags/CSS3/" />
-        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="JavaScript" scheme="https://ksamar.top/tags/JavaScript/" />
+        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
+        <category term="JQuery" scheme="https://ksamar.top/tags/JQuery/" />
         <updated>2023-06-21T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E%E6%A0%BC%E8%83%8C%E6%99%AF%E3%81%AE%E8%A1%A8%E5%8D%95/</id>
+        <id>https://ksamar.top/web/front-end/form-page/</id>
         <title>二次元风格背景の表单</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E%E6%A0%BC%E8%83%8C%E6%99%AF%E3%81%AE%E8%A1%A8%E5%8D%95/"/>
+        <link rel="alternate" href="https://ksamar.top/web/front-end/form-page/"/>
         <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;p&gt;一个简单的前端登录与注册页面，带短信验证功能&lt;/p&gt;
 &lt;p&gt;可自行设置背景图片，推荐大小为 1920x1080&lt;/p&gt;
@@ -1460,17 +1459,17 @@ JavaScript 框架：JQuery&lt;/p&gt;
 &lt;h1 id=&#34;视频演示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#视频演示&#34;&gt;#&lt;/a&gt; 视频演示&lt;/h1&gt;
 &lt;p&gt;Bilibili -&amp;gt; &lt;a href=&#34;https://www.bilibili.com/video/BV1bX4y1b7fq/&#34;&gt;BiliBili&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="前端" scheme="https://ksamar.top/categories/%E5%89%8D%E7%AB%AF/" />
+        <category term="前端" scheme="https://ksamar.top/categories/front-end/" />
         <category term="HTML5" scheme="https://ksamar.top/tags/HTML5/" />
         <category term="CSS3" scheme="https://ksamar.top/tags/CSS3/" />
-        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="JavaScript" scheme="https://ksamar.top/tags/JavaScript/" />
+        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <updated>2023-06-13T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E4%B8%80%E4%B8%AA%E7%AE%80%E6%B4%81%E5%A5%BD%E7%9C%8B%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%85%83%E3%81%AE%E5%B0%8F%E7%AB%99%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2/</id>
+        <id>https://ksamar.top/web/front-end/login-page/</id>
         <title>一个简洁好看的二次元の小站登录页面</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E4%B8%80%E4%B8%AA%E7%AE%80%E6%B4%81%E5%A5%BD%E7%9C%8B%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%85%83%E3%81%AE%E5%B0%8F%E7%AB%99%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2/"/>
+        <link rel="alternate" href="https://ksamar.top/web/front-end/login-page/"/>
         <content type="html">&lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;p&gt;一个简洁好看的二次元の小站登录页面，配合 JavaScript 实现了随机登录背景&lt;br /&gt;
 可自行添加背景图片，大小为 880px * 720px&lt;/p&gt;
@@ -1484,17 +1483,17 @@ JavaScript 框架：JQuery&lt;/p&gt;
 &lt;h1 id=&#34;视频演示地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#视频演示地址&#34;&gt;#&lt;/a&gt; 视频演示地址&lt;/h1&gt;
 &lt;p&gt;Bilibili -&amp;gt; &lt;a href=&#34;https://www.bilibili.com/video/BV1yL411v7zJ&#34;&gt;Bilibili&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="前端" scheme="https://ksamar.top/categories/%E5%89%8D%E7%AB%AF/" />
+        <category term="前端" scheme="https://ksamar.top/categories/front-end/" />
         <category term="HTML5" scheme="https://ksamar.top/tags/HTML5/" />
         <category term="CSS3" scheme="https://ksamar.top/tags/CSS3/" />
-        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="JavaScript" scheme="https://ksamar.top/tags/JavaScript/" />
+        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <updated>2023-06-04T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Vue+SpringBoot%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/Vue3+SpringBoot+WebSocket%20%E7%AE%80%E6%B4%81%E5%A5%BD%E7%9C%8B%E7%9A%84%E8%81%8A%E5%A4%A9%E5%AE%A4%E9%A1%B9%E7%9B%AE/</id>
+        <id>https://ksamar.top/web/vue-spring/vue-chat-room/</id>
         <title>Vue3+SpringBoot+WebSocket 简洁好看的聊天室项目</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Vue+SpringBoot%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/Vue3+SpringBoot+WebSocket%20%E7%AE%80%E6%B4%81%E5%A5%BD%E7%9C%8B%E7%9A%84%E8%81%8A%E5%A4%A9%E5%AE%A4%E9%A1%B9%E7%9B%AE/"/>
+        <link rel="alternate" href="https://ksamar.top/web/vue-spring/vue-chat-room/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;此篇文章为 Vue+Element-Plus+SpringBoot+WebSockt 简洁好看的聊天室项目 项目文章&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;开发环境&lt;/strong&gt;&lt;/p&gt;
@@ -1521,16 +1520,16 @@ JavaScript 框架：JQuery&lt;/p&gt;
 &lt;h1 id=&#34;项目视频地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#项目视频地址&#34;&gt;#&lt;/a&gt; 项目视频地址&lt;/h1&gt;
 &lt;p&gt;Bilibili -&amp;gt; &lt;a href=&#34;https://www.bilibili.com/video/BV1pM4y1v7f3&#34;&gt;Bilibili&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="Vue+SpringBoot实战项目" scheme="https://ksamar.top/categories/Vue-SpringBoot%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/" />
+        <category term="Vue+SpringBoot实战项目" scheme="https://ksamar.top/categories/vue-springboot/" />
         <category term="SpringBoot" scheme="https://ksamar.top/tags/SpringBoot/" />
         <category term="Vue" scheme="https://ksamar.top/tags/Vue/" />
         <category term="WebSocket" scheme="https://ksamar.top/tags/WebSocket/" />
         <updated>2023-06-01T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/JavaSwing%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/JavaSwing%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
+        <id>https://ksamar.top/web/java-swing/java-swing-library/</id>
         <title>JavaSwing图书管理系统</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/JavaSwing%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/JavaSwing%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+        <link rel="alternate" href="https://ksamar.top/web/java-swing/java-swing-library/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;此篇文章为 JavaSwing 图书管理系统 项目文章&lt;/p&gt;
 &lt;p&gt;技术栈：&lt;br /&gt;
@@ -1584,9 +1583,9 @@ MySQL 5.7&lt;/p&gt;
         <updated>2023-05-21T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Vue+SpringBoot%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/Vue3+ElementUI+SpringBoot%20%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
+        <id>https://ksamar.top/web/vue-spring/vue-library/</id>
         <title>Vue3+ElementUI+SpringBoot 图书管理系统</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Vue+SpringBoot%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/Vue3+ElementUI+SpringBoot%20%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+        <link rel="alternate" href="https://ksamar.top/web/vue-spring/vue-library/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;在此次教程中，我会教大家如何写一套完整的前后端分离图书管理系统：&lt;br /&gt;
 前端技术栈：&lt;br /&gt;
@@ -1625,15 +1624,15 @@ Java+SpringBoot+MySQL&lt;/p&gt;
 &lt;h2 id=&#34;超时查询页面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#超时查询页面&#34;&gt;#&lt;/a&gt; 超时查询页面&lt;/h2&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/30/202407302335446856357bac3a3ff96.png&#34; alt=&#34;在这里插入图片描述&#34; /&gt;&lt;/p&gt;
 </content>
-        <category term="Vue+SpringBoot实战项目" scheme="https://ksamar.top/categories/Vue-SpringBoot%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/" />
+        <category term="Vue+SpringBoot实战项目" scheme="https://ksamar.top/categories/vue-springboot/" />
         <category term="SpringBoot" scheme="https://ksamar.top/tags/SpringBoot/" />
         <category term="Vue" scheme="https://ksamar.top/tags/Vue/" />
         <updated>2023-05-03T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Java/Java%20%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20CMD%20%E7%89%88/</id>
+        <id>https://ksamar.top/web/java/java-library-cmd/</id>
         <title>Java 图书管理系统 CMD 版</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/Java/Java%20%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20CMD%20%E7%89%88/"/>
+        <link rel="alternate" href="https://ksamar.top/web/java/java-library-cmd/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;这是一个 Java 图书管理系统 CMD 版&lt;/p&gt;
 &lt;p&gt;说明：Java 面向对象编程设计，适合初学 Java 的同学开始模仿制作，阅读的第一个程序项目，功能可能并不是那么完美，感兴趣的同学可以参考&lt;/p&gt;
@@ -1720,9 +1719,9 @@ Java IDE: IDEA 2021.3&lt;/p&gt;
         <updated>2023-03-23T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E9%85%8D%E5%90%88JQuery%E7%AE%80%E6%B4%81%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%80%92%E8%AE%A1%E6%97%B6%E9%A1%B5%E9%9D%A2/</id>
+        <id>https://ksamar.top/web/front-end/jquery/</id>
         <title>配合JQuery简洁好看的倒计时页面</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E5%89%8D%E7%AB%AF/%E9%85%8D%E5%90%88JQuery%E7%AE%80%E6%B4%81%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%80%92%E8%AE%A1%E6%97%B6%E9%A1%B5%E9%9D%A2/"/>
+        <link rel="alternate" href="https://ksamar.top/web/front-end/jquery/"/>
         <content type="html">&lt;h1 id=&#34;️零-简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#️零-简介&#34;&gt;#&lt;/a&gt; ✒️零、简介&lt;/h1&gt;
 &lt;p&gt;大家好，我是一名喜欢制作网页的小程序员 KSaMar&lt;/p&gt;
 &lt;p&gt;前几天看到了一张网页倒计时的图片项目，让我非常感兴趣，今天我仿照图片制作出此次展示的网页倒计时项目&lt;/p&gt;
@@ -1747,17 +1746,17 @@ Java IDE: IDEA 2021.3&lt;/p&gt;
 &lt;h1 id=&#34;️四-视频展示地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#️四-视频展示地址&#34;&gt;#&lt;/a&gt; ✒️四、视频展示地址&lt;/h1&gt;
 &lt;p&gt;Bilibili: &lt;a href=&#34;https://www.bilibili.com/video/BV1Tb411d7ru&#34;&gt;bilibili&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="前端" scheme="https://ksamar.top/categories/%E5%89%8D%E7%AB%AF/" />
-        <category term="JQuery" scheme="https://ksamar.top/tags/JQuery/" />
+        <category term="前端" scheme="https://ksamar.top/categories/front-end/" />
         <category term="CSS3" scheme="https://ksamar.top/tags/CSS3/" />
-        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
         <category term="JavaScript" scheme="https://ksamar.top/tags/JavaScript/" />
+        <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
+        <category term="JQuery" scheme="https://ksamar.top/tags/JQuery/" />
         <updated>2023-02-17T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/PHP%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/PHP%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
+        <id>https://ksamar.top/web/php/php-library/</id>
         <title>PHP图书管理系统</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/PHP%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/PHP%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+        <link rel="alternate" href="https://ksamar.top/web/php/php-library/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;此篇文章为 PHP 图书管理系统项目文章&lt;/p&gt;
 &lt;p&gt;前端技术栈：&lt;br /&gt;
@@ -1816,17 +1815,17 @@ PHP 版本：php7.3.4nts&lt;br /&gt;
 &lt;p&gt;GitHub：&lt;a href=&#34;https://github.com/baobaoJK/PHP-Library&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Gitee：&lt;a href=&#34;https://gitee.com/baobao_JK/PHP-Library&#34;&gt;Gitee&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="PHP实战项目" scheme="https://ksamar.top/categories/PHP%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/" />
+        <category term="PHP实战项目" scheme="https://ksamar.top/categories/php/" />
+        <category term="JQuery" scheme="https://ksamar.top/tags/JQuery/" />
         <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
         <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
         <category term="PHP" scheme="https://ksamar.top/tags/PHP/" />
-        <category term="JQuery" scheme="https://ksamar.top/tags/JQuery/" />
         <updated>2022-05-15T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/IDEA/IDEA%202019%20%E5%88%9B%E5%BB%BA%20JavaWeb%20%E9%A1%B9%E7%9B%AE/</id>
+        <id>https://ksamar.top/web/idea/idea-2019/</id>
         <title>IDEA 2019 创建 JavaWeb 项目</title>
-        <link rel="alternate" href="https://ksamar.top/Web%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/IDEA/IDEA%202019%20%E5%88%9B%E5%BB%BA%20JavaWeb%20%E9%A1%B9%E7%9B%AE/"/>
+        <link rel="alternate" href="https://ksamar.top/web/idea/idea-2019/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;此教程为 IDEA 2019 创建 JavaWeb 项目&lt;br /&gt;
 软件：IDEA 2019 版&lt;/p&gt;
@@ -1945,7 +1944,7 @@ Default encoding for properties files：UTF-8&lt;br /&gt;
 &lt;p&gt;以上就是创建 JavaWeb 项目的教程，感谢观看。&lt;br /&gt;
 如果本篇文章对你有所帮助，可以点赞收藏此文章，这对我更新文章有很大的帮助，谢谢！&lt;/p&gt;
 </content>
-        <category term="IDEA" scheme="https://ksamar.top/categories/IDEA/" />
+        <category term="IDEA" scheme="https://ksamar.top/categories/idea/" />
         <category term="Java" scheme="https://ksamar.top/tags/Java/" />
         <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
         <category term="JavaWeb" scheme="https://ksamar.top/tags/JavaWeb/" />
