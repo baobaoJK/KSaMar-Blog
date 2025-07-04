@@ -242,18 +242,18 @@ pnpm run dev
 &lt;p&gt;账号为之后的自动部署至关重要&lt;/p&gt;
 &lt;h1 id=&#34;hexo-博客搭建&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-博客搭建&#34;&gt;#&lt;/a&gt; Hexo 博客搭建&lt;/h1&gt;
 &lt;h2 id=&#34;什么是-hexo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是-hexo&#34;&gt;#&lt;/a&gt; 什么是 Hexo ？&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/31/2024073101590818b139f73817a7812.png&#34; alt=&#34;image-20240731015935952&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/31/2024073102002108c911186efbedf60.png&#34; alt=&#34;image-20240731020013166&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb49ae2b6.png&#34; alt=&#34;1.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb49cbae9.png&#34; alt=&#34;2.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;以上是来自 &lt;a href=&#34;https://hexo.io/zh-cn/&#34;&gt;Hexo&lt;/a&gt; 官网对于 Hexo 的介绍&lt;/p&gt;
 &lt;h2 id=&#34;如何安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何安装&#34;&gt;#&lt;/a&gt; 如何安装？&lt;/h2&gt;
 &lt;p&gt;首先，您的 Windows 或 Linux 系统下需要拥有 Node.js 环境&lt;/p&gt;
 &lt;p&gt;以下是 Hexo 官网对于 Hexo 版本 对应的 Node.js 版本限制&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/31/2024073102216750e6285737406a326.png&#34; alt=&#34;image-20240731022111623&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb4a5bbdc.png&#34; alt=&#34;3.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;本文将使用 Windows 10 安装 Hexo&lt;/p&gt;
 &lt;h2 id=&#34;下载-nodejs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载-nodejs&#34;&gt;#&lt;/a&gt; 下载 Node.js&lt;/h2&gt;
 &lt;p&gt;首先进入 Node.js 下载网站 &lt;a href=&#34;https://nodejs.org/zh-cn/download/package-manager&#34;&gt;点我&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;本文将使用 18.20.4 (LTS) Node.js 版本进行操作&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/07/31/202407310227869eebc17a754e90d4d.png&#34; alt=&#34;image-20240731022744800&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb4a72ff6.png&#34; alt=&#34;4.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;安装 Node.js 时，一直点击 Next 即可&lt;/p&gt;
 &lt;p&gt;安装完成后，可以在 Windows cmd 命令行中输入&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;node&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-v&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;来检测 Node.js 是否安装成功&lt;/p&gt;
@@ -266,7 +266,7 @@ pnpm run dev
 &lt;p&gt;安装了 Hexo，接下来就是创建一个 Hexo 博客&lt;/p&gt;
 &lt;p&gt;首先可以在 D 盘 或 E 盘下创建一个 Hexo 的文件夹，这个文件夹的名字可以是任意的&lt;/p&gt;
 &lt;p&gt;例如我在 D 盘下创建了 Hexo 文件夹&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/2024080100399000ed7dafdbf05ab9a.png&#34; alt=&#34;image-20240801003950864&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb498bde0.png&#34; alt=&#34;5.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;首先打开 cmd 命令窗口，Win + R 输入 cmd 打开&lt;/p&gt;
 &lt;p&gt;输入以下命令进入到 D 盘 的 Hexo 文件夹中&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-Bash&#34;&gt;D:
@@ -278,7 +278,7 @@ cd Hexo
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo s&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;当你的控制台出现以下内容，那就是 hexo 服务启动成功&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;INFO  Validating config&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;INFO  Start processing&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;INFO  Hexo is running at http://localhost:4000/ &lt;span class=&#34;token builtin class-name&#34;&gt;.&lt;/span&gt; Press Ctrl+C to stop.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;博客默认地址是&lt;a href=&#34;http://localhostt:4000/&#34;&gt; http://localhost:4000/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;现在的博客看起来应该是这样的&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/202408010047495818e7e74c55e77af.png&#34; alt=&#34;image-20240801004738302&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb4b73c1b.png&#34; alt=&#34;6.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最后，输入以下命令进行博客文章的页面生成&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo g&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;执行完上述命令你会发现，文件夹里多了一个 public 文件夹，里面就是生成的博客静态资源文件，上传至服务器的文件就是这些&lt;/p&gt;
 &lt;h1 id=&#34;使用-typora-编写博客文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用-typora-编写博客文章&#34;&gt;#&lt;/a&gt; 使用 Typora 编写博客文章&lt;/h1&gt;
@@ -301,7 +301,7 @@ cd Hexo
 &lt;p&gt;在 My First &lt;a href=&#34;http://Blog.md&#34;&gt;Blog.md&lt;/a&gt; 文件下输入以下内容&lt;/p&gt;
 &lt;figure class=&#34;highlight markdown&#34;&gt;&lt;figcaption data-lang=&#34;markdown&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token front-matter-block&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;---&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token front-matter yaml language-yaml&#34;&gt;&lt;span class=&#34;token key atrule&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; 我的第一篇博客&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;date&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; 2024/8/1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token title important&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;#&lt;/span&gt; 我的第一篇博客&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Hello World&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;...&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;保存文件后，在 Hexo 文件夹中输入 hexo s 启动 Hexo 服务查看文章&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo s&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;此时，你将会在 Hexo 博客底部中看到你新建的文章&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/202408010120974d567433c2508757f.png&#34; alt=&#34;image-20240801012021878&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb4b046ab.png&#34; alt=&#34;7.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;至此，你已经学会创建了博客文章，接下来将会教你如何使用图床存储博客图片&lt;/p&gt;
 &lt;h1 id=&#34;使用-picgo-软件上传至图库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用-picgo-软件上传至图库&#34;&gt;#&lt;/a&gt; 使用 PicGo 软件上传至图库&lt;/h1&gt;
 &lt;h2 id=&#34;什么是图床&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是图床&#34;&gt;#&lt;/a&gt; 什么是图床？&lt;/h2&gt;
@@ -322,7 +322,7 @@ cd Hexo
 &lt;p&gt;将使用山东大学镜像站进行软件下载 &lt;a href=&#34;https://mirrors.sdu.edu.cn/github-release/Molunerfinn_PicGo&#34;&gt;下载地址&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;对于 Windows x64 位系统，则下载 PicGo-Setup-2.3.1-x64.exe&lt;/p&gt;
 &lt;p&gt;下载安装完毕后，打开 PicGo&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/202408010131074530c1e361d995896.png&#34; alt=&#34;image-20240801013130019&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb4a28960.png&#34; alt=&#34;8.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;进入 插件设置 -&amp;gt; 搜索 cheveret -&amp;gt; 点击安装&lt;/p&gt;
 &lt;p&gt;待安装完毕后，进入图床设置，配置 PicGo 图床信息&lt;/p&gt;
 &lt;h3 id=&#34;配置-picgo-图床&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置-picgo-图床&#34;&gt;#&lt;/a&gt; 配置 PicGo 图床&lt;/h3&gt;
@@ -332,7 +332,7 @@ cd Hexo
 &lt;h2 id=&#34;在-typora-中设置自动上传图片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#在-typora-中设置自动上传图片&#34;&gt;#&lt;/a&gt; 在 Typora 中设置自动上传图片&lt;/h2&gt;
 &lt;p&gt;打开 Typora 软件&lt;/p&gt;
 &lt;p&gt;点击 文件 -&amp;gt; 偏好设置 -&amp;gt; 图像&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/2024080101393979ec4e51e6f70ee7d.png&#34; alt=&#34;image-20240801013919338&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867edeb49559.png&#34; alt=&#34;9.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;选项框 选择 上传图片&lt;/p&gt;
 &lt;p&gt;以下复选框规则 根据自己的喜好进行勾选&lt;/p&gt;
 &lt;p&gt;上传服务器设定中，选择本地已安装好的 PicGo 软件即可&lt;/p&gt;
@@ -382,7 +382,7 @@ cd Hexo
 &lt;h2 id=&#34;创建-github-仓库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创建-github-仓库&#34;&gt;#&lt;/a&gt; 创建 GitHub 仓库&lt;/h2&gt;
 &lt;p&gt;首先登录 GitHub 网站，点击 new repository&lt;/p&gt;
 &lt;p&gt;输入仓库名称&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/20240801020677833639b442b3d84d9.png&#34; alt=&#34;image-20240801020652707&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb4ae5c2a.png&#34; alt=&#34;10.png&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;安装-hexo-deployer-git-插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装-hexo-deployer-git-插件&#34;&gt;#&lt;/a&gt; 安装 hexo-deployer-git 插件&lt;/h2&gt;
 &lt;p&gt;想让 Hexo 能自动部署到 GitHub 仓库上，则需要安装 hexo-deployer-git 插件&lt;/p&gt;
 &lt;p&gt;进入 Hexo 文件夹，输入以下命令&lt;/p&gt;
@@ -398,31 +398,31 @@ cd Hexo
 &lt;h2 id=&#34;在-github-中添加-ssh-秘钥&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#在-github-中添加-ssh-秘钥&#34;&gt;#&lt;/a&gt; 在 GitHub 中添加 SSH 秘钥&lt;/h2&gt;
 &lt;p&gt;进入 GitHub 点击个人头像 点击 Settings&lt;/p&gt;
 &lt;p&gt;点击左边栏的 SSH and GPG keys，点击 New SSH Key&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/2024080102181701f3da83f2c17f5bd.png&#34; alt=&#34;image-20240801021812089&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb4b8250f.png&#34; alt=&#34;11.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;将我们刚刚复制的秘钥文本粘贴到输入框中，给秘钥起个名字即可&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/202408010218467ea206206ba653641.png&#34; alt=&#34;image-20240801021828409&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867ee493784e.png&#34; alt=&#34;12.png&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;配置-1panel-静态网站&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置-1panel-静态网站&#34;&gt;#&lt;/a&gt; 配置 1Panel 静态网站&lt;/h2&gt;
 &lt;p&gt;进入 1Panel 服务，点击 网站 创建静态网站&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/2024080102221187a56a25c0997cd8c.png&#34; alt=&#34;image-20240801022252049&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb4aac74b.png&#34; alt=&#34;13.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;输入你的网页域名，输入网页存放目录&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/202408010223180933117e83d540dc1.png&#34; alt=&#34;image-20240801022349058&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eec17b674.png&#34; alt=&#34;14.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最后点击确认即可&lt;/p&gt;
 &lt;h2 id=&#34;配置-1panel-计划任务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置-1panel-计划任务&#34;&gt;#&lt;/a&gt; 配置 1Panel 计划任务&lt;/h2&gt;
 &lt;p&gt;进入 1Panel 服务，点击计划任务，创建计划任务&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/202408010224427e2120c9a7514ec32.png&#34; alt=&#34;image-20240801022427369&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eefec00cc.png&#34; alt=&#34;15.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;选择任务类型为 Shell 脚本&lt;/p&gt;
 &lt;p&gt;任务名称自定义&lt;/p&gt;
 &lt;p&gt;执行周期 每天早上 8 点&lt;/p&gt;
 &lt;p&gt;脚本内容&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;cd&lt;/span&gt; /web&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;rm&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-rf&lt;/span&gt; /web&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; clone git仓库地址&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;/web 是你创建静态网站时的目录&lt;/p&gt;
 &lt;p&gt;git 仓库地址则是你存放 Blog 静态资源的仓库&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/2024080102276756da2f3ebd84fd563.png&#34; alt=&#34;image-20240801022708594&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb4ac2ee5.png&#34; alt=&#34;16.png&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;使用-hexo-部署到-github-上&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用-hexo-部署到-github-上&#34;&gt;#&lt;/a&gt; 使用 Hexo 部署到 GitHub 上&lt;/h2&gt;
 &lt;p&gt;当你书写完你的博客文章后，你执行以下命令，将博客静态资源部署到 GitHub 上&lt;/p&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/202408010230990d9b079903c6c6e46.png&#34; alt=&#34;image-20240801023046915&#34; /&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb4b5bcb9.png&#34; alt=&#34;17.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最后，你可以等待到早上八点，1Panel 服务自动执行计划任务&lt;/p&gt;
 &lt;p&gt;或者你可以去 1Panel 计划任务立刻执行该任务&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://img.picgo.net/2024/08/01/202408010231412b9619e0c68859dbe.png&#34; alt=&#34;image-20240801023145361&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;http://pic.ksamar.top/i/2025/07/04/6867eb49632ca.png&#34; alt=&#34;18.png&#34; /&gt;&lt;/p&gt;
 &lt;h1 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h1&gt;
 &lt;p&gt;至此本文结束，感谢你的观看&lt;/p&gt;
 &lt;p&gt;欢迎关注我的 Bilibili 账号 &lt;a href=&#34;https://space.bilibili.com/51110915&#34;&gt;KSaMar&lt;/a&gt;&lt;/p&gt;
@@ -494,10 +494,10 @@ cd Hexo
             <link>https://ksamar.top/web/jsp/jsp-net-book/</link>
             <category term="JSP项目实战" scheme="https://ksamar.top/categories/JSP%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/" />
             <category term="Java" scheme="https://ksamar.top/tags/Java/" />
-            <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
-            <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
             <category term="JSP" scheme="https://ksamar.top/tags/JSP/" />
+            <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
             <category term="Servlet" scheme="https://ksamar.top/tags/Servlet/" />
+            <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
             <pubDate>Fri, 22 Mar 2024 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;p&gt;项目名称：网上书城&lt;/p&gt;
@@ -1098,10 +1098,10 @@ cd Hexo
             <link>https://ksamar.top/web/jsp/jsp-student/</link>
             <category term="JSP项目实战" scheme="https://ksamar.top/categories/JSP%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/" />
             <category term="Java" scheme="https://ksamar.top/tags/Java/" />
-            <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
-            <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
             <category term="JSP" scheme="https://ksamar.top/tags/JSP/" />
+            <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
             <category term="Servlet" scheme="https://ksamar.top/tags/Servlet/" />
+            <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
             <pubDate>Tue, 19 Mar 2024 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;学生信息管理系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学生信息管理系统&#34;&gt;#&lt;/a&gt; 学生信息管理系统&lt;/h1&gt;
 &lt;p&gt;项目名称：学生信息管理系统&lt;/p&gt;
@@ -1762,9 +1762,9 @@ Java IDE: IDEA 2021.3&lt;/p&gt;
             <link>https://ksamar.top/web/php/php-library/</link>
             <category term="PHP实战项目" scheme="https://ksamar.top/categories/php/" />
             <category term="JQuery" scheme="https://ksamar.top/tags/JQuery/" />
-            <category term="PHP" scheme="https://ksamar.top/tags/PHP/" />
-            <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
             <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
+            <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
+            <category term="PHP" scheme="https://ksamar.top/tags/PHP/" />
             <pubDate>Mon, 16 May 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;此篇文章为 PHP 图书管理系统项目文章&lt;/p&gt;
