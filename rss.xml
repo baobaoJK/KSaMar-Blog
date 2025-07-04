@@ -434,8 +434,8 @@ cd Hexo
             <title>IDEA 2023 创建 JSP 项目</title>
             <link>https://ksamar.top/web/idea/idea-2023/</link>
             <category term="IDEA" scheme="https://ksamar.top/categories/idea/" />
-            <category term="Java" scheme="https://ksamar.top/tags/Java/" />
             <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
+            <category term="Java" scheme="https://ksamar.top/tags/Java/" />
             <category term="JavaWeb" scheme="https://ksamar.top/tags/JavaWeb/" />
             <pubDate>Fri, 22 Mar 2024 01:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;新建项目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新建项目&#34;&gt;#&lt;/a&gt; 新建项目&lt;/h1&gt;
@@ -494,10 +494,10 @@ cd Hexo
             <link>https://ksamar.top/web/jsp/jsp-net-book/</link>
             <category term="JSP项目实战" scheme="https://ksamar.top/categories/JSP%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/" />
             <category term="Java" scheme="https://ksamar.top/tags/Java/" />
-            <category term="JSP" scheme="https://ksamar.top/tags/JSP/" />
-            <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
-            <category term="Servlet" scheme="https://ksamar.top/tags/Servlet/" />
             <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
+            <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
+            <category term="JSP" scheme="https://ksamar.top/tags/JSP/" />
+            <category term="Servlet" scheme="https://ksamar.top/tags/Servlet/" />
             <pubDate>Fri, 22 Mar 2024 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;p&gt;项目名称：网上书城&lt;/p&gt;
@@ -1098,10 +1098,10 @@ cd Hexo
             <link>https://ksamar.top/web/jsp/jsp-student/</link>
             <category term="JSP项目实战" scheme="https://ksamar.top/categories/JSP%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/" />
             <category term="Java" scheme="https://ksamar.top/tags/Java/" />
-            <category term="JSP" scheme="https://ksamar.top/tags/JSP/" />
-            <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
-            <category term="Servlet" scheme="https://ksamar.top/tags/Servlet/" />
             <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
+            <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
+            <category term="JSP" scheme="https://ksamar.top/tags/JSP/" />
+            <category term="Servlet" scheme="https://ksamar.top/tags/Servlet/" />
             <pubDate>Tue, 19 Mar 2024 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;学生信息管理系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学生信息管理系统&#34;&gt;#&lt;/a&gt; 学生信息管理系统&lt;/h1&gt;
 &lt;p&gt;项目名称：学生信息管理系统&lt;/p&gt;
@@ -1381,9 +1381,9 @@ cd Hexo
             <category term="前端" scheme="https://ksamar.top/categories/front-end/" />
             <category term="HTML5" scheme="https://ksamar.top/tags/HTML5/" />
             <category term="CSS3" scheme="https://ksamar.top/tags/CSS3/" />
+            <category term="Sass" scheme="https://ksamar.top/tags/Sass/" />
             <category term="JavaScript" scheme="https://ksamar.top/tags/JavaScript/" />
             <category term="前端" scheme="https://ksamar.top/tags/%E5%89%8D%E7%AB%AF/" />
-            <category term="Sass" scheme="https://ksamar.top/tags/Sass/" />
             <pubDate>Sat, 08 Jul 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h1&gt;
 &lt;p&gt;此篇文章为 十五个不同风格的表单页面 项目文章&lt;br /&gt;
@@ -1762,9 +1762,9 @@ Java IDE: IDEA 2021.3&lt;/p&gt;
             <link>https://ksamar.top/web/php/php-library/</link>
             <category term="PHP实战项目" scheme="https://ksamar.top/categories/php/" />
             <category term="JQuery" scheme="https://ksamar.top/tags/JQuery/" />
-            <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
-            <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
             <category term="PHP" scheme="https://ksamar.top/tags/PHP/" />
+            <category term="MySQL" scheme="https://ksamar.top/tags/MySQL/" />
+            <category term="BootStrap" scheme="https://ksamar.top/tags/BootStrap/" />
             <pubDate>Mon, 16 May 2022 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;此篇文章为 PHP 图书管理系统项目文章&lt;/p&gt;
@@ -1830,8 +1830,8 @@ PHP 版本：php7.3.4nts&lt;br /&gt;
             <title>IDEA 2019 创建 JavaWeb 项目</title>
             <link>https://ksamar.top/web/idea/idea-2019/</link>
             <category term="IDEA" scheme="https://ksamar.top/categories/idea/" />
-            <category term="Java" scheme="https://ksamar.top/tags/Java/" />
             <category term="IDEA" scheme="https://ksamar.top/tags/IDEA/" />
+            <category term="Java" scheme="https://ksamar.top/tags/Java/" />
             <category term="JavaWeb" scheme="https://ksamar.top/tags/JavaWeb/" />
             <pubDate>Sat, 19 Mar 2022 01:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
