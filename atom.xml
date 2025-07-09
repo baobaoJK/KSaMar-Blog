@@ -218,9 +218,9 @@ pnpm run dev
         <updated>2024-07-31T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://ksamar.top/sharing-experience/hexo/</id>
+        <id>https://ksamar.top/sharing-experience/hexo-blog/</id>
         <title>从 0 开始搭建 Hexo 博客并自动部署到服务器上</title>
-        <link rel="alternate" href="https://ksamar.top/sharing-experience/hexo/"/>
+        <link rel="alternate" href="https://ksamar.top/sharing-experience/hexo-blog/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;本篇文章分为以下三个部分&lt;/p&gt;
 &lt;p&gt;一、Hexo 博客搭建&lt;/p&gt;

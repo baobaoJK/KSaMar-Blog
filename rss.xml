@@ -221,9 +221,9 @@ pnpm run dev
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://ksamar.top/sharing-experience/hexo/</guid>
+            <guid isPermalink="true">https://ksamar.top/sharing-experience/hexo-blog/</guid>
             <title>从 0 开始搭建 Hexo 博客并自动部署到服务器上</title>
-            <link>https://ksamar.top/sharing-experience/hexo/</link>
+            <link>https://ksamar.top/sharing-experience/hexo-blog/</link>
             <category term="心得分享" scheme="https://ksamar.top/categories/sharing-experience/" />
             <category term="Hexo" scheme="https://ksamar.top/tags/Hexo/" />
             <category term="GitHub" scheme="https://ksamar.top/tags/GitHub/" />
